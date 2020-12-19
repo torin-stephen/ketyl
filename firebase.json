@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "site":"shorturls-1a0e2",
+    "public": "build",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [ {
+        "source": "**",
+        "destination": "/index.html"
+    } ]
+  }
+}
