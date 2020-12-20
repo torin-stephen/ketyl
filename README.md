@@ -40,7 +40,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 4. Done! You can now visit the new short URL which will forward to the set long URL
 
-Example: ketyl.ml/gh forwards to here.
+Example: [ketyl.ml/gh](https://ketyl.ml/gh) forwards to here.
 ****
 ## Configuration
 
