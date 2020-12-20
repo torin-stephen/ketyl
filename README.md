@@ -39,6 +39,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 <img src="https://i.ibb.co/xgwVbvt/shorten.png" alt="shorten" border="0" width="500" height="500" />
 
 4. Done! You can now visit the new short URL which will forward to the set long URL
+
+Example: ketyl.ml/gh forwards to here.
 ****
 ## Configuration
 
