@@ -181,6 +181,10 @@ class Admin extends Component {
     dispatch(logoutUser());
   };
 
+  handleZemoLink = () => {
+    window.location.href='https://z.ketyl.tk/admin';
+  }
+
   render() {
     const { classes } = this.props;
 
@@ -194,6 +198,7 @@ class Admin extends Component {
                 Ketyl
               </Typography>
               <Button color="inherit" onClick={this.handleLogout} >Logout</Button>
+                <Button color="inherit" onClick={this.handleZemoLink}>Zemo</Button>
             </Toolbar>
           </AppBar>
         </div>
